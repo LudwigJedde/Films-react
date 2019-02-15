@@ -1,0 +1,33 @@
+body,html{
+  background-color: black;
+}
+
+h1, h2, h3, p, .form-control {
+  color: #eceeef !important;
+}
+.search_bar{
+  margin-top: 50px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+.form-control {
+  background-color: darkred !important;
+  border: 5px solid red!important;
+}
+
+
+li:hover {
+  background-color: red;
+}
+
+.title_list_item{
+padding-top:40px;
+text-align:center;
+}
+
+.title_list_item_title{
+text-align:center;
+font-size:20px;
+
+}
